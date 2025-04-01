@@ -1,3 +1,4 @@
 baseURL = 'test'
 languageCode = 'en-us'
 title = 'Demo for hugo'
+theme = 'PaperMod'
