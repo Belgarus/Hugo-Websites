@@ -13,16 +13,14 @@
       <link>//localhost:1313/posts/first/</link>
       <pubDate>Tue, 01 Apr 2025 20:52:49 +0200</pubDate>
       <guid>//localhost:1313/posts/first/</guid>
-      <description>&lt;h1 id=&#34;vacation&#34;&gt;Vacation&lt;/h1&gt;
-&lt;p&gt;Is beautiful&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is my first post&lt;/p&gt;</description>
     </item>
     <item>
-      <title>First post</title>
+      <title>Second post</title>
       <link>//localhost:1313/posts/second/</link>
       <pubDate>Tue, 01 Apr 2025 20:52:49 +0200</pubDate>
       <guid>//localhost:1313/posts/second/</guid>
-      <description>&lt;h1 id=&#34;vacation&#34;&gt;Vacation&lt;/h1&gt;
-&lt;p&gt;Is beautiful&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is my Second post&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

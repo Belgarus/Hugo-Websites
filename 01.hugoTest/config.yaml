@@ -2,3 +2,7 @@ baseURL: ""
 languageCode: "de-de"
 title: "Meine Hugo Website"
 theme: "PaperMod"
+
+menu:
+    main:
+      - identifier: categories
