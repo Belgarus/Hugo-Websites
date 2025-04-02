@@ -8,10 +8,10 @@
     <loc>//localhost:1313/posts/first/</loc>
     <lastmod>2025-04-01T20:52:49+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>//localhost:1313/posts/second/</loc>
     <lastmod>2025-04-01T20:52:49+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/second/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2025-04-01T20:52:49+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
