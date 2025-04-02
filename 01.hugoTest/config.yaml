@@ -15,7 +15,7 @@ menu:
       url: /tags/
       weight: 20
 
-    - identifier: archieves
-      name: Archieves
-      url: /archieves/
+    - identifier: archives
+      name: Archives
+      url: /archives/
       weight: 30
