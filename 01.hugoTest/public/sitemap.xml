@@ -14,6 +14,8 @@
     <loc>//localhost:1313/posts/second/</loc>
     <lastmod>2025-04-01T20:52:49+02:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/archieves/</loc>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
