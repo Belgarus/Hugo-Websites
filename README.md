@@ -1,75 +1,75 @@
-# Hugo-Websites 🚀
+# Hugo Websites 🚀  
 
-Willkommen in meinem **Hugo-Websites** Repository!  
+Welcome to my **Hugo Websites** repository!  
 
-Dieses Projekt ist ein [Hugo](https://gohugo.io/) Test und verwendet das [PaperMod Theme](https://github.com/adityatelange/hugo-PaperMod) um eine moderne Website zu erstellen.  
-Schau dir auch das [Getting Started With Hugo - FREE COURSE](https://www.youtube.com/watch?v=hjD9jTi_DQ4) Tutorial an, um einen überblick zu erhalten! 🎥
-
----
-
-## Inhaltsverzeichnis 📚
-
-- [Überblick](#überblick-)
-- [Installation](#installation-)
-- [Verwendung](#verwendung-)
-- [Beitrag leisten](#beitrag-leisten-)
+This project is a [Hugo](https://gohugo.io/) test and uses the [PaperMod Theme](https://github.com/adityatelange/hugo-PaperMod) to create a modern website.  
+Check out the [Getting Started With Hugo - FREE COURSE](https://www.youtube.com/watch?v=hjD9jTi_DQ4) tutorial for an overview! 🎥  
 
 ---
 
-## Überblick ✨
+## Table of Contents 📚  
 
-In diesem Repository baue ich Websites mit:
-
-- **Hugo**: Ein schneller, moderner Static-Site-Generator.
-
-- **PaperMod Theme**: Ein minimalistisches und stilvolles Hugo-Theme.
+- [Overview](#overview-✨)  
+- [Installation](#installation-🛠️)  
+- [Usage](#usage-💡)  
+- [Contributing](#contributing-🤝)  
 
 ---
 
-## Installation 🛠️
+## Overview ✨  
 
-### Voraussetzungen
+In this repository, I build websites using:  
 
-- **Hugo**: [Installationsanleitung](https://gohugo.io/getting-started/installing/)
-- **Git**: Stelle sicher, dass Git installiert ist.
+- **Hugo**: A fast, modern static site generator.  
 
-### Schritte
+- **PaperMod Theme**: A minimalist and stylish Hugo theme.  
 
-1. **Repository klonen:**
+---
+
+## Installation 🛠️  
+
+### Prerequisites  
+
+- **Hugo**: [Installation Guide](https://gohugo.io/getting-started/installing/)  
+- **Git**: Make sure Git is installed.  
+
+### Steps  
+
+1. **Clone the repository:**  
 
    ```bash
    git clone https://github.com/Belgarus/Hugo-Websites/01.hugoTest.git
-   ```
+   ```  
 
-2. **PaperMod Theme als Submodul hinzufügen:**
+2. **Add PaperMod Theme as a submodule:**  
 
    ```bash
    git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
-   ```
+   ```  
 
-3. **Lokalen Server starten:**
+3. **Start the local server:**  
 
    ```bash
    hugo server
-   ```
+   ```  
 
-   Öffne deinen Browser und gehe zu [http://localhost:1313](http://localhost:1313) 🌐
+   Open your browser and go to [http://localhost:1313](http://localhost:1313) 🌐  
 
 ---
 
-## Verwendung 💡
+## Usage 💡  
 
-- **Neuen Beitrag erstellen:**
+- **Create a new post:**  
 
    ```bash
-   hugo new content/posts/dein-beitrag.md
-   ```
+   hugo new content/posts/your-post.md
+   ```  
 
 ---
 
-## Beitrag leisten 🤝
+## Contributing 🤝  
 
-Beiträge sind herzlich willkommen!  
-Wenn du Ideen oder Verbesserungen hast, eröffne bitte ein Issue oder sende einen Pull Request.
+Contributions are welcome!  
+If you have ideas or improvements, please open an issue or submit a pull request.  
 
----
+---  
