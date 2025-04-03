@@ -4,6 +4,17 @@ title: "Meine Hugo Website"
 theme: "PaperMod"
 
 params:
+  homeInfoParams:
+    Title: 'Hello Stranger'
+    Content: Welcome to my blog. Here you`ll find a lot of cool information about amzing stuff!
+  SocialIcons: 
+      - name: facebook
+      - url: 'https://www.facebook.com/'
+      - name: twitter
+      - url: 'https://x.com/'
+      - name: GitHub
+      - url: 'https://github.com/'
+
   cover:
     linkFullImages: true
 
