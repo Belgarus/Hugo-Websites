@@ -10,6 +10,7 @@ params:
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowShareButtons: true
+  ShowPostNavLinks: true
 
 menu:
   main:
