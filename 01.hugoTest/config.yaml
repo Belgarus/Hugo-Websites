@@ -3,6 +3,14 @@ languageCode: "de-de"
 title: "Meine Hugo Website"
 theme: "PaperMod"
 
+params:
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+
 menu:
   main:
     - identifier: categories
