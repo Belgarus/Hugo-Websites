@@ -12,7 +12,6 @@ Schau dir auch das [Getting Started With Hugo - FREE COURSE](https://www.youtube
 - [Überblick](#überblick-)
 - [Installation](#installation-)
 - [Verwendung](#verwendung-)
-- [Anpassung](#anpassung-)
 - [Beitrag leisten](#beitrag-leisten-)
 
 ---
