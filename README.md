@@ -64,12 +64,3 @@ In this repository, I build websites using:
    ```bash
    hugo new content/posts/your-post.md
    ```  
-
----
-
-## Contributing 🤝  
-
-Contributions are welcome!  
-If you have ideas or improvements, please open an issue or submit a pull request.  
-
----  
