@@ -1,5 +1,24 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: My New Hugo Site
-theme: hugo-profile
-themesDir: ..
+
+params:
+  hero:
+    enable: true
+    intro: "Hi, ich bin"
+    title: "Dein Name"
+    subtitle: "Was du machst (z. B. Webentwickler)"
+    content: "Kurzer Satz über dich."
+    image: /images/hero.svg  # oder eigenes Bild (siehe Schritt 3)
+    bottomImage:
+      enable: true
+    button:
+      enable: true
+      name: "Lebenslauf"
+      url: "/cv.pdf"        # anpassen/entfernen
+      download: true
+      newPage: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/Belgarus
