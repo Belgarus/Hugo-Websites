@@ -7,6 +7,9 @@
 # Generated files by hugo
 /public/
 /exampleSite/public/
+/my-site/public/
+/exampleSite/themes/
+/my-site/themes/
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
